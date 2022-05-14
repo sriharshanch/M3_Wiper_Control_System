@@ -11,9 +11,9 @@ Wipers are designed and manufactured to remove water from a windshield. Most aut
 * Code quality
 [![CodeGrade](https://api.codiga.io/project/33500/status/svg)]
 * Codacy
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/448550b5b1694c37920db27d3267b6c4)](https://www.codacy.com/gh/Stephenj071/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Stephenj071/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge]([![Codacy Badge](https://app.codacy.com/project/badge/Grade/c00ea2bf66bb42c493602f2cc8d093b6)](https://www.codacy.com/gh/sriharshanch/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sriharshanch/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade))
 * Build on Linux
-[![Build-Linux](https://github.com/Stephenj071/M3_Wiper_Control_System/actions/workflows/buildonlinux.yml/badge.svg?branch=main)](https://github.com/Stephenj071/M3_Wiper_Control_System/actions/workflows/buildonlinux.yml)
+[![Build-Linux]()
 
 [![Bulid CI - windows](https://github.com/sriharshanch/M3_Wiper_Control_System/actions/workflows/windows.yml/badge.svg)](https://github.com/sriharshanch/M3_Wiper_Control_System/actions/workflows/windows.yml)
 # INTRODUCTION
